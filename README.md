@@ -9,12 +9,12 @@ This project demonstrates a Text-to-Speech (TTS) API built with Ballerina langua
 
 ## Features
 
--📍 Convert text to speech 
--📍 Adjust speech parameters (speed, pitch, volume)
--📍 Save favorite texts for later use
--📍 View history of previous conversions
--📍 Download generated audio files
--📍 Professional, responsive UI
+- 📍 Convert text to speech 
+- 📍 Adjust speech parameters (speed, pitch, volume)
+- 📍 Save favorite texts for later use
+- 📍 View history of previous conversions
+- 📍 Download generated audio files
+- 📍 Professional, responsive UI
 
 ## Running the Project
 
