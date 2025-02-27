@@ -61,15 +61,10 @@ function App() {
   useEffect(() => {
     const fetchVoices = async () => {
       try {
-        // In a real implementation, this would fetch from the Ballerina API
+        
         // For demo purposes, we'll use a simulated response
         const simulatedVoices = [
-          { id: 'en-US-1', name: 'Emma (US)', language: 'English (US)', gender: 'Female' },
           { id: 'en-US-2', name: 'Michael (US)', language: 'English (US)', gender: 'Male' },
-          { id: 'en-GB-1', name: 'Olivia (UK)', language: 'English (UK)', gender: 'Female' },
-          { id: 'en-GB-2', name: 'James (UK)', language: 'English (UK)', gender: 'Male' },
-          { id: 'fr-FR-1', name: 'Sophie (FR)', language: 'French', gender: 'Female' },
-          { id: 'es-ES-1', name: 'Isabella (ES)', language: 'Spanish', gender: 'Female' },
         ];
         
         
